@@ -91,3 +91,31 @@ form button {
     text-align: center; 
     margin-top: 20px;  
 }
+
+@media only screen and (max-width: 768px) {
+    .container {
+        margin: 3rem;
+    }
+
+    .select-container img {
+        max-width: 2rem;
+    }
+
+    .select-container {
+        width: 7rem;
+    }
+
+    .dropdown i {
+        font-size: 1.5rem;
+    }
+
+    .msg {
+        font-size: 1.3rem;
+    }
+
+    .github-link p {
+        font-size: 0.7rem;
+    }
+
+
+}
