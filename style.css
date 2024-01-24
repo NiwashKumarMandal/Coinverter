@@ -27,7 +27,9 @@ form {
     margin: 2rem 0 1rem 0;
 }
 
-form select, button, input {
+form select,
+button,
+input {
     width: 100%;
     border: none;
     outline: none;
@@ -41,7 +43,7 @@ form input {
     padding-left: 0.5rem;
 }
 
-.dropdown{
+.dropdown {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -53,7 +55,7 @@ form input {
     margin-top: 1.7rem;
 }
 
-.select-container img{
+.select-container img {
     max-width: 2.5rem;
 }
 
@@ -88,8 +90,8 @@ form button {
 }
 
 .github-link {
-    text-align: center; 
-    margin-top: 20px;  
+    text-align: center;
+    margin-top: 20px;
 }
 
 @media only screen and (max-width: 768px) {
@@ -98,19 +100,19 @@ form button {
     }
 
     .select-container img {
-        max-width: 1.7rem;
+        max-width: 1.5rem;
     }
 
     .select-container {
-        width: 6rem;
+        width: 5.2rem;
     }
 
     .dropdown i {
-        font-size: 1.5rem;
+        font-size: 1.3rem;
     }
 
     .msg {
-        font-size: 1.1rem;
+        font-size: 1rem;
     }
 
     .github-link p {
@@ -121,5 +123,7 @@ form button {
         font-size: 1rem;
     }
 
-
+    .select-container select {
+        font-size: 0.75rem;
+    }
 }
