@@ -2,7 +2,7 @@
 
 # Coinverter 💱 - Your Expert Partner in Currency Changes
 
-[<img src="./coin-icon.png" width="70px" alt="coin-icon">](https://harshilshrma.github.io/Coinverter/)<em>&nbsp; (Tap on these coins to view the project)</em></span>
+[<img src="./coin-icon.png" width="65px" alt="coin-icon">](https://harshilshrma.github.io/Coinverter/)<em>&nbsp; (Tap on these coins to view the project)</em></span>
 
 <br>
 
